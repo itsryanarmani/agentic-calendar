@@ -32,7 +32,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-calendar",
+  "mcpName": "io.github.itsryanarmani/agentic-calendar",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
